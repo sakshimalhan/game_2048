@@ -17,5 +17,5 @@ Press the following keys for movement-
 * Clone the repositry to your local system.
 * Run the game(make sure you have python installed on your local system).
 
-![run](.run_game.png)
+![run](./run_game.png)
 * Play using the keys mentioned above.
